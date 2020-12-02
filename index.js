@@ -2,6 +2,10 @@ console.log(tata)
 
 console.log(bogara)
 
-console.log(asep)
+console.log(jakara)
 
-console.log(prayogo)
+console.log(makasar)
+
+console.log(bogor)
+
+console.log(bali)
