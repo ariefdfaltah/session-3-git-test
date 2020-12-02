@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 a
 b
 c
 d
 f
 
+=======
+merah
+kuning
+hijau
+>>>>>>> develop
